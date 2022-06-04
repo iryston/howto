@@ -29,3 +29,11 @@ To update the development version of Nvim:
 ```bash
 brew reinstall neovim
 ```
+
+### Python support
+
+Python (:python) support is installable via the pip
+
+```bash
+python3 -m pip install --user --upgrade pynvim
+```
